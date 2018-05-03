@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Networking OkHttp Async Sample 1</string>
+    <string name="loading">Loading</string>
+</resources>

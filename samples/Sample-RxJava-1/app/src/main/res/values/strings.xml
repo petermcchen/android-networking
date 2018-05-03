@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxJava Sample 1</string>
+    <string name="loading">Loading</string>
+</resources>
